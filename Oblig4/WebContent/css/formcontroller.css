@@ -1,0 +1,28 @@
+.formcontroller_hidden {
+	display: none;
+}
+
+.formcontroller_validInput { /* lysegrønn  */
+	/* background-color: rgb(200, 255, 200); */
+	border-color: green;
+}
+
+.formcontroller_invalidInput { /* lyserød  rgb(255, 200, 200)*/
+	/* background-color: rgb(255, 200, 200); */
+	border-color: red;
+}
+
+.formcontroller_strongPassword { /* lysegrønn  rgb(200, 255, 200);*/
+	/* background-color: rgb(200, 255, 200); */
+	border-color: green;
+}
+
+.formcontroller_mediumPassword { /* lysegul  rgb(255, 255, 170);*/
+	/* background-color: rgb(255, 255, 170); */
+	border-color: yellow;
+}
+
+.formcontroller_weakPassword { /* lyserød  rgb(255, 200, 200)*/
+	/* background-color: rgb(255, 200, 200); */
+	border-color: red;
+}
